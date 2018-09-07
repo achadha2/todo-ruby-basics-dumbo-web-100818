@@ -4,6 +4,7 @@ def division(num1, num2)
   (num1 / num2)
 end
 
+p division(12/2)
 
 
 
@@ -12,22 +13,22 @@ end
   #return value
 #end
 
-def argue
+#def argue
   
-end
+#end
 
-def greeting
+#def greeting
 
-end
+#end
 
-def return_a_value
+#def return_a_value
 
-end
+#end
 
-def last_evaluated_value
+#def last_evaluated_value
 
-end
+#end
 
-def pizza_party
+#def pizza_party
 
-end
+#end
