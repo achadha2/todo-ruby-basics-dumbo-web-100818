@@ -7,10 +7,11 @@ division(12,2)
 
 
 
-#def assign_variable(value)
- # value = "Bob"
-  #return value
-#end
+def assign_variable(value)
+  name = "#{value}"
+end
+
+assign_variable("Bob")
 
 #def argue
   
