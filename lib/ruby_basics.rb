@@ -13,9 +13,11 @@ end
 
 assign_variable("Bob")
 
-def argue
-  
+def argue(value)
+  value
 end
+
+argue("hello")
 
 #def greeting
 
