@@ -8,6 +8,7 @@ division(12,2)
 
 def assign_variable(value)
   value = "Bob"
+  return value
 end
 
 def argue
