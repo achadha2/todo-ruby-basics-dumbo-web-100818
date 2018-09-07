@@ -19,9 +19,11 @@ end
 
 argue("hello")
 
-#def greeting
+def greeting(hi, name
+  "#{hi}, #{name}!"
+end
 
-#end
+greeting("hello", "Jeremy")
 
 #def return_a_value
 
