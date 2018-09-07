@@ -25,14 +25,14 @@ end
 
 greeting("hello", "Jeremy")
 
-#def return_a_value
+def return_a_value
+  return "Nice"
+end
 
-#end
+def last_evaluated_value
+  return "expert"
+end
 
-#def last_evaluated_value
-
-#end
-
-#def pizza_party
-
-#end
+def pizza_party(top="cheese"
+  top
+end
