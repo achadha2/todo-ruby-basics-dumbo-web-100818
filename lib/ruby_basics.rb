@@ -6,7 +6,7 @@ end
 
 binding.pry
 
-division(12,2)
+
 
 def assign_variable(value)
   value = "Bob"
