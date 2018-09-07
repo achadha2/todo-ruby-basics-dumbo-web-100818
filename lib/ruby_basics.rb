@@ -4,14 +4,13 @@ def division(num1, num2)
   (num1 / num2)
 end
 
-binding.pry
 
 
 
-def assign_variable(value)
-  value = "Bob"
-  return value
-end
+#def assign_variable(value)
+ # value = "Bob"
+  #return value
+#end
 
 def argue
   
